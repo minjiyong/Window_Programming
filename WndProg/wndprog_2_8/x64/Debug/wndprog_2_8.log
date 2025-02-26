@@ -1,0 +1,11 @@
+﻿  wndprog_2_8.cpp
+D:\산기대\2-1\윈도우프로그래밍\WndProg\wndprog_2_8\wndprog_2_8.cpp(40,16): warning C4244: 'return': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\산기대\2-1\윈도우프로그래밍\WndProg\wndprog_2_8\wndprog_2_8.cpp(224,38): warning C4244: '=': 'WPARAM'에서 'TCHAR'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\산기대\2-1\윈도우프로그래밍\WndProg\wndprog_2_8\wndprog_2_8.cpp(235,38): warning C4244: '=': 'WPARAM'에서 'TCHAR'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\산기대\2-1\윈도우프로그래밍\WndProg\wndprog_2_8\wndprog_2_8.cpp(246,31): warning C4244: '=': 'WPARAM'에서 'TCHAR'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\산기대\2-1\윈도우프로그래밍\WndProg\wndprog_2_8\wndprog_2_8.cpp(258,30): warning C4244: '=': 'WPARAM'에서 'TCHAR'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\산기대\2-1\윈도우프로그래밍\WndProg\wndprog_2_8\wndprog_2_8.cpp(265,38): warning C4244: '=': 'WPARAM'에서 'TCHAR'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\산기대\2-1\윈도우프로그래밍\WndProg\wndprog_2_8\wndprog_2_8.cpp(269,38): warning C4244: '=': 'WPARAM'에서 'TCHAR'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\산기대\2-1\윈도우프로그래밍\WndProg\wndprog_2_8\wndprog_2_8.cpp(273,31): warning C4244: '=': 'WPARAM'에서 'TCHAR'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\산기대\2-1\윈도우프로그래밍\WndProg\wndprog_2_8\wndprog_2_8.cpp(278,30): warning C4244: '=': 'WPARAM'에서 'TCHAR'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  wndprog_2_8.vcxproj -> D:\산기대\2-1\윈도우프로그래밍\WndProg\x64\Debug\wndprog_2_8.exe

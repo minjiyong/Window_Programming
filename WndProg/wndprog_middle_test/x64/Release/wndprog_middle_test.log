@@ -1,0 +1,8 @@
+﻿  1반_민지용.cpp
+D:\TUK\2-1\윈도우프로그래밍\WndProg\wndprog_middle_test\1반_민지용.cpp(137,16): warning C4244: 'return': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  24 of 24 functions (100.0%) were compiled.
+    9 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  wndprog_middle_test.vcxproj -> D:\TUK\2-1\윈도우프로그래밍\WndProg\x64\Release\wndprog_middle_test.exe
