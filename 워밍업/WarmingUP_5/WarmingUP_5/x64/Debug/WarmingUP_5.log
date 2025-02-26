@@ -1,0 +1,3 @@
+﻿  WarmingUP_5.cpp
+D:\산기대\2-1\윈도우프로그래밍\워밍업\WarmingUP_5\WarmingUP_5.cpp(39,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  WarmingUP_5.vcxproj -> D:\산기대\2-1\윈도우프로그래밍\워밍업\WarmingUP_5\x64\Debug\WarmingUP_5.exe

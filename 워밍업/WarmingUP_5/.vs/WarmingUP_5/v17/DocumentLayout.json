@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\uC0B0\uAE30\uB300\\2-1\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uC6CC\uBC0D\uC5C5\\WarmingUP_5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE39C39-D700-458A-A4DE-AED9500045A0}|WarmingUP_5.vcxproj|D:\\\uC0B0\uAE30\uB300\\2-1\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uC6CC\uBC0D\uC5C5\\WarmingUP_5\\WarmingUP_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDE39C39-D700-458A-A4DE-AED9500045A0}|WarmingUP_5.vcxproj|solutionrelative:WarmingUP_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WarmingUP_5.cpp",
+              "DocumentMoniker": "D:\\\uC0B0\uAE30\uB300\\2-1\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uC6CC\uBC0D\uC5C5\\WarmingUP_5\\WarmingUP_5.cpp",
+              "RelativeDocumentMoniker": "WarmingUP_5.cpp",
+              "ToolTip": "D:\\\uC0B0\uAE30\uB300\\2-1\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uC6CC\uBC0D\uC5C5\\WarmingUP_5\\WarmingUP_5.cpp",
+              "RelativeToolTip": "WarmingUP_5.cpp",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAgwFgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-11T05:44:47.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
